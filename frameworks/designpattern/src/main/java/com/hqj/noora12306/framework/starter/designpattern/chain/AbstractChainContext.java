@@ -1,13 +1,11 @@
 package com.hqj.noora12306.framework.starter.designpattern.chain;
 
+import com.hqj.noora12306.framework.starter.bases.ApplicationContextHolder;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.util.CollectionUtils;
 import org.springframework.core.Ordered;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 import java.util.stream.Collectors;
 
 /**

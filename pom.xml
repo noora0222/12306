@@ -24,6 +24,9 @@
         <module>frameworks/convention</module>
         <module>frameworks/user</module>
         <module>frameworks/designpattern</module>
+        <module>frameworks/common</module>
+        <module>frameworks/database</module>
+        <module>frameworks/distributedid</module>
 
     </modules>
 
